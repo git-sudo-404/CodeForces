@@ -2,8 +2,6 @@
 
 #### My Aproach
 
-##### Observation :
-
 - The elements with only one occurance and the last occurance of all the elements must belong to the last segment.
 - Find the min index among the above elements and it marks the starting of last seg.
 - Then the previous occurance of all the elements with the minimum index marks the starting of the last-1 segment.
